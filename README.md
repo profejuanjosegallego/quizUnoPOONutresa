@@ -19,7 +19,7 @@ Demostrar el dominio de los conceptos fundamentales de POO mediante la creación
 Crea las siguientes tres clases:
 
 - 🥋 GuerreroZ: representa a los guerreros del universo Dragon Ball Z.
-- 🔥 Transformacion: representa los diferentes estados y niveles de poder de los personajes.
+- 🔥 TransformacZion: representa los diferentes estados y niveles de poder de los personajes.
 - 💥 Batalla: representa los enfrentamientos entre guerreros.
 
 📌 Requisitos obligatorios
